@@ -5,7 +5,7 @@ springboot-security-basic
 > - Spring boot 2.5.0
 > - openjdk 11
 
-============
+---
 
 > ### Dependency
 > - spring-boot-starter-web
@@ -14,7 +14,7 @@ springboot-security-basic
 > - h2
 > - lombok
 
-============
+---
 
 > ### Usage
 > 1. Memebr Controller (permitAll - 모두가 접근 가능) 
