@@ -2,8 +2,8 @@
 springboot-security-basic
 
 > ### Develope Env
-> Spring boot 2.5.0
-> openjdk 11
+> - Spring boot 2.5.0
+> - openjdk 11
 
 > ### Dependency
 > - spring-boot-starter-web
