@@ -6,8 +6,8 @@ springboot-security-basic
 > openjdk 11
 
 > ### Dependency
-> spring-boot-starter-web
-> spring-boot-starter-security
-> spring-boot-starter-data-jpa
-> H2
-> lombok
+> - spring-boot-starter-web
+> - spring-boot-starter-security
+> - spring-boot-starter-data-jpa
+> - h2
+> - lombok
